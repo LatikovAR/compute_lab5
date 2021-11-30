@@ -1,0 +1,3 @@
+Trapezoid integrate: 0.366989 0.371737
+Trapezoid integrate with Richarson correction: 0.365406
+Simpson integrate: 0.365406
